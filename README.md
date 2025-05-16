@@ -25,7 +25,7 @@ flowchart TD
 Note: 
 * The source code files in this repo are just sample code. Please read this document and make necessary modification.
 * The arduino sketch files are from https://github.com/StuartsProjects/SX12XX-LoRa by adding the macro define of `LORA_NET_ID` in order to explain how a variable is chnaged by the script outside. 
-
+* Only tested on RPi 4 and macos. 
  
 
 ## Step 1 : Set up the environment
