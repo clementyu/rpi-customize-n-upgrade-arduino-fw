@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dir": "^0.1.2",
+    "express": "^5.1.0",
+    "jimp": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "node-webcam": "^0.8.2",
+    "qrcode-reader": "^1.0.4"
+  }
+}
