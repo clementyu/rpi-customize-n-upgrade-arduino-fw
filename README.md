@@ -7,9 +7,6 @@ to the module with Raspberry Pi (or PC) via USB port.
 
 The use case is like: 
 
-![](flowchart_1.png)
-
-
 
 ```mermaid
 flowchart TD
